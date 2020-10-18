@@ -52,7 +52,11 @@ namespace CreateAPowerPointSlideFromDotNet
             //Welcome the user
             Console.WriteLine("Welcome to PowerPoint from C#!");
             string[] PictureFile = { @"C:\powerpoint\img1.jpg", @"C:\powerpoint\img2.jpg", @"C:\powerpoint\img3.jpg", @"C:\powerpoint\img4.jpg" };
-            //Application pptApplication;
+            Application pptApplication;
+
+            //Use the media router to show a presentation
+            //MediaRouter mediaRouter = (mediaRouter)ContextBoundObject.getSystemService(ContextBoundObject.MEDIA_ROUTER_SERVICE);
+
             //Create the presentation file
             //Presentation pptPresentation = pptApplication.Presentations.Add(MsoTriState.msoTrue);
             //Presentation pptpresentation = pptApplication.Presentations.Add();
