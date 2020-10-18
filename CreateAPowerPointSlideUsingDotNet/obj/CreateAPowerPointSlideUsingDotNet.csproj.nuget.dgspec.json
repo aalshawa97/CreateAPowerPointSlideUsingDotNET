@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\source\\repos\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj": {}
+    "C:\\Users\\abdul\\OneDrive\\Documents\\GitHub\\CreateAPowerPointSlideUsingDotNETOrigin\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\source\\repos\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj": {
+    "C:\\Users\\abdul\\OneDrive\\Documents\\GitHub\\CreateAPowerPointSlideUsingDotNETOrigin\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj",
+        "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\Documents\\GitHub\\CreateAPowerPointSlideUsingDotNETOrigin\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj",
         "projectName": "CreateAPowerPointSlideUsingDotNet",
-        "projectPath": "C:\\Users\\abdul\\source\\repos\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj",
+        "projectPath": "C:\\Users\\abdul\\OneDrive\\Documents\\GitHub\\CreateAPowerPointSlideUsingDotNETOrigin\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\source\\repos\\CreateAPowerPointSlideUsingDotNet\\CreateAPowerPointSlideUsingDotNet\\obj\\",
+        "outputPath": "C:\\Users\\abdul\\OneDrive\\Documents\\GitHub\\CreateAPowerPointSlideUsingDotNETOrigin\\CreateAPowerPointSlideUsingDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
